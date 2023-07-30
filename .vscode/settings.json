@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "stdio.h": "c",
-        "signal.h": "c",
-        "signum-arch.h": "c"
-    }
-}
